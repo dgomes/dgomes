@@ -9,4 +9,3 @@ He his a strong Open Source Advocate and was one of the founders of the [Univers
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/dgomes?label=Follow)](https://twitter.com/dgomes)
 [![Linkedin: dgomes](https://img.shields.io/badge/-Diogo%20Gomes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dgomes/)](https://www.linkedin.com/in/dgomes/)
-![Profile views](https://gpvc.arturio.dev/dgomes)
