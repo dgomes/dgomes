@@ -1,9 +1,22 @@
 ### Diogo Gomes
 
-Diogo Gomes graduated in Computers and Telematics Engineering from the [University of Aveiro](https://www.ua.pt) in 2003 with first of his class honors, and concluded his Phd by the same University on Resource Optimization for Broadcast Networks in 2009. He's currently an Associate Professor at the University of Aveiro. In the last 20 years has participated in several EU funded projects such as IST-Mobydick, IST-Daidalos, IST-Akogrimo, IST-C-MOBILE, ICT-C-Cast, ICT-Onelab2, H2020-5GinFIRE and H2020-5GASP where besides conducting research on QoS, IP Mobility, Multicast/Broadcast, Service & Application Development and Network Orchestration. He has always been deeply involved in the deployment of prototypes and demonstrators. 
-Current research interest are applying Artificial Inteligence to Internet of Things (IoT) Scenarios (e.g. Energy Disaggregation, Smart EV Charging, Multi-Access Edge Computing) and 5G Technologies such as [NFV](https://www.etsi.org/technologies/nfv) and [ZSM](https://www.etsi.org/technologies/zero-touch-network-service-management)
+Diogo Gomes is an Associate Professor at the [University of Aveiro](https://www.ua.pt), where he graduated top of his class in Computers and Telematics Engineering in 2003 and completed his PhD in 2009 on resource optimization for broadcast networks. With over two decades of experience in networking research and systems engineering, he has played a key role in numerous EU-funded projects, including IST-MOBY-DICK, IST-Daidalos, IST-Akogrimo, IST-C-MOBILE, ICT-C-CAST, ICT-Onelab2, H2020-5GinFIRE, and H2020-5GASP. His work spans across QoS, IP mobility, multicast/broadcast technologies, application enablement platforms, and network orchestration.
 
-He his a strong Open Source Advocate and was one of the founders of the [University of Aveiro Linux User Group](http://glua.ua.pt) and has personally contributed to several OSS projects such [Home Assistant](https://github.com/home-assistant/core). He's a passionate Hacker and Maker and president of a local association - Hack'Aveiro.
+A strong believer in the power of **Open Source**, Diogo has consistently contributed to bridging academic research with real-world prototypes and operational demonstrators. His current research focuses on the intersection of **AI, IoT, and 5G/6G technologies**, including:
+
+- **Smart Grid & Energy Systems** (e.g., load disaggregation, smart EV charging)  
+- **Multi-Access Edge Computing (MEC)** and **Function-as-a-Service (FaaS)**  
+- **Zero-Touch Network and Service Management ([ZSM](https://www.etsi.org/technologies/zero-touch-network-service-management))**  
+- **Network Function Virtualization ([NFV](https://www.etsi.org/technologies/nfv))**  
+- **Open Source 5G/6G Core and Control Plane Design**
+
+He is particularly interested in **creating developer-friendly interfaces for telco systems**, making programmable networks more accessible.
+
+Diogo is a long-time advocate of the **Open Source and Maker movements**. He co-founded the [University of Aveiro Linux User Group (GLUA)](http://glua.ua.pt) and actively contributes to projects such as [Home Assistant](https://github.com/home-assistant/core). Outside academia, he leads [Hack'Aveiro](https://hackaveiro.org), a local hackerspace and creative tech community.
+
+Whether he's building a next-gen 5G lab setup, optimizing edge services with AI, or hacking on a DIY home automation project, Diogo is driven by curiosity, collaboration, and code.
+
+---
 
 <img src="https://github-readme-stats.vercel.app/api?username=dgomes&&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97">
 
@@ -11,3 +24,4 @@ He his a strong Open Source Advocate and was one of the founders of the [Univers
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/dgomes?label=Follow)](https://twitter.com/dgomes)
 [![Linkedin: dgomes](https://img.shields.io/badge/-Diogo%20Gomes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dgomes/)](https://www.linkedin.com/in/dgomes/)
+
