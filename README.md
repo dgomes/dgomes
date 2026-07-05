@@ -18,10 +18,6 @@ Whether he's building a next-gen 5G lab setup, optimizing edge services with AI,
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=dgomes&&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97">
-
-![Github Contributions](https://greptile-stats.vercel.app/api/widget/dgomes/contributions)
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/dgomes?label=Follow)](https://twitter.com/dgomes)
 [![Linkedin: dgomes](https://img.shields.io/badge/-Diogo%20Gomes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dgomes/)](https://www.linkedin.com/in/dgomes/)
 
